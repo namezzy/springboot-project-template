@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://gateway01.ap-southeast-1.prod.aws.tidbcloud.com:4000/initdata
+    username: 2Dm5aK84pRpb8VC.root
+    password: 5GFWAHLrD9OpGf3M
